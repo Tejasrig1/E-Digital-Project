@@ -78,6 +78,7 @@ Open in your browser: http://localhost:5173
 Here's what the final interface looks like:
 
 Onboarding UI Screenshot
+check this images
 WhatsApp Image 2025-06-07 at 16.49.40.
 WhatsApp Image 2025-06-07 at 16.49.41 (2)
 WhatsApp Image 2025-06-07 at 16.49.41 (3)
