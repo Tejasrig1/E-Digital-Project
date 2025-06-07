@@ -89,14 +89,4 @@ Add form validation library like yup or react-hook-form
 Use Recharts for dashboard graphs
 Author
 Developed by Tejasri
-Original Code — No Plagiarism
-📄 License
-This project is open source and available under the MIT License.
-
-✅ Now just:
-
-Save this content as README.md in your root project folder.
-Add a screenshot image named screenshot.png if you want it to display visually in the README.
-You’re ready to showcase this on GitHub or in your internship!
-Need help exporting your project to GitHub or making a zip file to submit?
 
